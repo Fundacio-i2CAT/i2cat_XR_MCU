@@ -1,0 +1,8 @@
+Package: boost-type-traits
+Version: 1.73.0
+Depends: boost-config, boost-detail, boost-static-assert, boost-vcpkg-helpers
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 87768759124d8ef4d16d8bcec4e9c5c0151e2227
+Description: Boost type_traits module
+Type: Port

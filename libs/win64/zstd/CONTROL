@@ -1,0 +1,8 @@
+Package: zstd
+Version: 1.4.4
+Port-Version: 2
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 86fc88c66df4eebf13490b02bb35907d7818c6a8
+Description: Zstandard - Fast real-time compression algorithm
+Type: Port

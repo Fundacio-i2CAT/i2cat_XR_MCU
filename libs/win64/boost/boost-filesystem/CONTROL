@@ -1,0 +1,8 @@
+Package: boost-filesystem
+Version: 1.73.0
+Depends: boost-assert, boost-build, boost-config, boost-core, boost-detail, boost-functional, boost-integer, boost-io, boost-iterator, boost-modular-build-helper, boost-predef, boost-smart-ptr, boost-system, boost-type-traits, boost-vcpkg-helpers, boost-winapi
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 0b00eb8e2e0bf3c95fa93e94727dc53e88c3bd0a
+Description: Boost filesystem module
+Type: Port
