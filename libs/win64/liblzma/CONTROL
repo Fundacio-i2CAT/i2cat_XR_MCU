@@ -1,8 +1,0 @@
-Package: liblzma
-Version: 5.2.5
-Port-Version: 1
-Architecture: x64-windows
-Multi-Arch: same
-Abi: 0e130e22220e83cf396418c070eee64b096777cc
-Description: Compression library with an API similar to that of zlib.
-Type: Port

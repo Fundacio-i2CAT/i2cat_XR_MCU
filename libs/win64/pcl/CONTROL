@@ -1,8 +1,0 @@
-Package: pcl
-Version: 1.9.1-13
-Depends: boost-asio, boost-date-time, boost-dynamic-bitset, boost-filesystem, boost-foreach, boost-graph, boost-interprocess, boost-iostreams, boost-multi-array, boost-property-map, boost-ptr-container, boost-random, boost-signals2, boost-system, boost-thread, boost-uuid, eigen3, flann, libpng, qhull, vtk
-Architecture: x64-windows
-Multi-Arch: same
-Abi: bf58cd27659a49f3c1d06ecd88e1b4a847fa7fa0
-Description: Point Cloud Library (PCL) is open source library for 2D/3D image and point cloud processing.
-Type: Port
